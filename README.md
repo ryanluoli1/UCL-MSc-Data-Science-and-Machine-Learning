@@ -1,1 +1,2 @@
-# UCL-MSc-DSML-COMP0078-Supervised-Learning
+# UCL MSc Data Science and Machine Learning
+
