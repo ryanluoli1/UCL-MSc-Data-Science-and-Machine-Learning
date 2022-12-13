@@ -1,6 +1,6 @@
 # COMP0164 Digital Finance
 
-This repository contains materials relevant to the COMP0164 (Digital Finance) course I completed at UCL.
+This repository contains materials relevant to the COMP0164 ([Digital Finance](https://www.ucl.ac.uk/module-catalogue/modules/digital-finance-COMP0164)) course I completed at UCL.
 
 ## Folders
 
