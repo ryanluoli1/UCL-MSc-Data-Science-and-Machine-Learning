@@ -1,6 +1,6 @@
 # COMP0078 Supervised Learning
 
-This repository contains materials relevant to the COMP0078 (Supervised Learning) course I completed at UCL.
+This repository contains materials relevant to the COMP0078 ([Supervised Learning](https://www.ucl.ac.uk/module-catalogue/modules/supervised-learning-COMP0078)) course I completed at UCL.
 
 
 ## Folders
