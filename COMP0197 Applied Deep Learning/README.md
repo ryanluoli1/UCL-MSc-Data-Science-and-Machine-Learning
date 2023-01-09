@@ -6,8 +6,8 @@ This repository contains materials relevant to the COMP0197 ([Applied Deep Learn
 ## Folders
 
 - **`Lecture Notes`** : contains all the lecture notes for this 8-week course
-- **`Report`** : 
 - **`Coursework`** : 
+- **`Individual Project`** : 
 - **`Group Project`** : 
 
 
