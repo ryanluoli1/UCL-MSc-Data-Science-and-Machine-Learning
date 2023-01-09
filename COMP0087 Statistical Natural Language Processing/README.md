@@ -11,24 +11,11 @@ This repository contains materials relevant to the COMP0087 ([Statistical Natura
 
 ## Course Contents
 
-- NLP Tasks:
-
-    - Language Models
-    - Machine Translation
-    - Text Classification
-    - Sequence Tagging
-    - Constituency Parsing
-    - Dependency Parsing
-    - Information Extraction
-    - Machine Comprehension
-
-- NLP and ML methods:
-
-    - Encoder/Decoder Architectures
-    - Feature Engineering
-    - Deep Neural Networks
-    - RNNs and CNNs
-    - Attention
-    - Word Vectors
-    - Pretraining
-
+- Feature Engineering and Linear Models
+- Machine Learning with Pytorch
+- Backpropagation and Word Embeddings
+- Recurrent Neural Networks and Advanced RNNs
+- Sequence Labelling and Conditional Language Models
+- Attetion and Memory
+- Constituency Parsing and Dependency Parsing
+- Pre-training
