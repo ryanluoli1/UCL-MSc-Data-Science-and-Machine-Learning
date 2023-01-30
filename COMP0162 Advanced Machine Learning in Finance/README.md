@@ -7,7 +7,7 @@ This repository contains materials relevant to the COMP0162 ([Advanced Machine L
 ## Folders
 
 - **`Lecture Notes`** : contains all the lecture notes for this 8-week course
-- **`Report`** : 
+- **`Project`** : 
 
 
 ## Course Contents
