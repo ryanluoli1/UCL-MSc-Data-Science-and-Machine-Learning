@@ -6,7 +6,7 @@ This repository contains materials relevant to the COMP0084 ([Information Retrie
 ## Folders
 
 - **`Lecture Notes`**: contains all the lecture notes for this 8-week course
-- **`Coursework 1`**: 
+- **`Coursework 1`**: inverted index, BM25, query likelihood language models with smoothing techniques
 - **`Coursework 2`**: 
 
 
